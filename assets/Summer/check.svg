@@ -1,0 +1,8 @@
+<svg id="check" xmlns="http://www.w3.org/2000/svg" width="17" height="17" viewBox="0 0 17 17">
+  <circle id="Ellipse_4" data-name="Ellipse 4" cx="8.5" cy="8.5" r="8.5" fill="#32ba7c"/>
+  <path id="Path_511" data-name="Path 511" d="M558.36,456.767l4.371,4.371a8.494,8.494,0,0,0,6.3-8.205v-.241l-3.432-3.164Z" transform="translate(-552.032 -444.432)" fill="#0aa06e"/>
+  <g id="Group_158" data-name="Group 158" transform="translate(2.856 4.196)">
+    <path id="Path_512" data-name="Path 512" d="M257.831,594.013a1,1,0,0,1,0,1.394l-.778.778a1,1,0,0,1-1.394,0l-3.405-3.432a1,1,0,0,1,0-1.394l.778-.778a1,1,0,0,1,1.394,0Z" transform="translate(-251.972 -587.806)" fill="#fff"/>
+    <path id="Path_513" data-name="Path 513" d="M492.379,370.549a1,1,0,0,1,1.394,0l.778.778a1,1,0,0,1,0,1.394l-5.9,5.872a1,1,0,0,1-1.394,0l-.778-.778a1,1,0,0,1,0-1.394Z" transform="translate(-483.544 -370.268)" fill="#fff"/>
+  </g>
+</svg>
